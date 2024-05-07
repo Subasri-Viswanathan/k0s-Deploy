@@ -4,7 +4,7 @@
 set -e
 
 # Variable declaration.
-repo_url="https://github.com/ranganathan-arumugam/k0s-Deploy/raw/main/private-cloud.zip"
+repo_url="https://github.com/Subasri-Viswanathan/k0s-Deploy/raw/main/private-cloud.zip"
 destination="/manifest"
 
 # Parse command-line arguments
